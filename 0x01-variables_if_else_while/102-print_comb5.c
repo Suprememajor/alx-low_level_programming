@@ -10,11 +10,10 @@ int main(void)
 {
 	int i, e, g, h, op1, op2;
 
-	i = e = g = h = 48;
-	for (; h < 58; h++)
-	{		
+	for (h = 48; h < 58; h++)
+	{
 		for (g = 48; g < 58; g++)
-		{			
+		{
 			for (e = 48; e < 58; e++)
 			{
 				for (i = 48; i < 58; i++)
