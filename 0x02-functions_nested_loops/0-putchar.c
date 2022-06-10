@@ -7,11 +7,12 @@
 int main(void)
 {
 	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
+	int i;
 
-	for (int i = 0; i < 8; i++)
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(str[i]);
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
