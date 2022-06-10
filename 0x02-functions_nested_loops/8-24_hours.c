@@ -1,8 +1,6 @@
 #include "main.h"
 /**
  * jack_bauer - prints and returns last digit of an integer
- *
- * Return: 
  */
 void jack_bauer(void)
 {
