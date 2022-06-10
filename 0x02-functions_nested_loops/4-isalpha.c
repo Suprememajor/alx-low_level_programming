@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - Tells if a character is alphabetic or not
+ * _isalpha - Tells if a character is alphabetic or not
  *
  *@c: The character in ASCII code
  *
