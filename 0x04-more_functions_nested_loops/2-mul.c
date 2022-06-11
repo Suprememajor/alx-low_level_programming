@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * _isdigit - Tells if a character is a digit or not
+ * mul - Multiplies two numbers
  *
- *@c: The character in ASCII code
+ *@a: The first number
+ *@b: The second number
  *
- * Return: 1 if it is a digit, 0 otherwise
+ * Return: product of a and b
  */
 int mul(int a, int b)
 {
