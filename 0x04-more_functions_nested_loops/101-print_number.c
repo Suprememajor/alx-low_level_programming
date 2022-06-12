@@ -31,5 +31,4 @@ void print_number(int n)
 			order /= 10;
 		}
 	}
-	_putchar('\n');
 }
