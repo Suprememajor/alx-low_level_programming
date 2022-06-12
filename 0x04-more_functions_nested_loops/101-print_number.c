@@ -11,8 +11,8 @@ void print_number(int n)
 	reverse = 0;
 	while (n > 0)
 	{
-		last_digit = n % 10
-		reverse = (reverse * 10) + (last_digit)
+		last_digit = n % 10;
+		reverse = (reverse * 10) + (last_digit);
 		n /= 10;
 	}
 	while (reverse > 0)
