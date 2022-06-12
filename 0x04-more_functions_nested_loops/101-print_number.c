@@ -31,5 +31,4 @@ void print_number(int n)
 			reverse /= 10;
 		}
 	}
-	_putchar('\n');
 }
