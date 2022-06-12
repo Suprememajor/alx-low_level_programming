@@ -7,7 +7,7 @@
  */
 void print_number(int n)
 {
-	int order, temp;
+	unsigned int order, temp;
 
 	if (n == 0)
 		_putchar(48);
